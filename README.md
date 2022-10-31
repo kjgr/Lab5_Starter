@@ -3,4 +3,5 @@ Name: Janav Ganga Raj Kati
 
 Link to Continuous Integration repo: https://github.com/kjgr/github_actions
 
-Link to webpages:
+Link to webpages:  /expose.html and /explore.html
+
